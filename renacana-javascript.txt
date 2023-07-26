@@ -4,5 +4,6 @@ RENCANA JAVASCRIPT
 - melakukan praktek mandiri
   * mempelajari kode kodenya
   * ikuti tutorialnya step by step
+  * mencoba membuat web menggunakan javascript
 - melakukan tinjauan akhir
 - selesai
