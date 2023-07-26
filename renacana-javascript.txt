@@ -6,4 +6,5 @@ RENCANA JAVASCRIPT
   * ikuti tutorialnya step by step
   * mencoba membuat web menggunakan javascript
 - melakukan tinjauan akhir
+  * melakukan tugas dengan cara praktek 
 - selesai
