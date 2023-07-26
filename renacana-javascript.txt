@@ -2,5 +2,7 @@ RENCANA JAVASCRIPT
 
 - menonton youtube web programming unpas
 - melakukan praktek mandiri
+  * mempelajari kode kodenya
+  * ikuti tutorialnya step by step
 - melakukan tinjauan akhir
 - selesai
